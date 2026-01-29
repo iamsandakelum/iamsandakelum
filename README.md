@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sandakelum Senevirathna</h1>
-<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
+Hi 👋, I'm Sandakelum Senevirathna
+==================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsandakelum&label=Profile%20views&color=0e75b6&style=flat" alt="iamsandakelum" /> </p>
+### A passionate frontend and backend developer from Sri Lanka
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsandakelum" alt="iamsandakelum" /></a> </p>
+![iamsandakelum](https://komarev.com/ghpvc/?username=iamsandakelum&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![iamsandakelum](https://github-profile-trophy.vercel.app/?username=iamsandakelum)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)
 
-<h3 align="left">Languages and Tools:</h3>
+### Connect with me:
+
+### Languages and Tools:
 | Category   | Technologies |
 |-|-|
 | Languages               | [![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat&logo=javascript)](https://www.javascript.com) [![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=flat&logo=typescript)](https://www.typescriptlang.org) [![Go](https://img.shields.io/badge/Go-222222?style=flat&logo=Go)](https://go.dev) [![Python](https://img.shields.io/badge/Python-222222?style=flat&logo=python)](https://www.python.org) [![PHP](https://img.shields.io/badge/PHP-222222?style=flat&logo=php&logoColor=777BB4)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Pine Script](https://img.shields.io/badge/Pine%20Script-222222?style=flat&logo=pinescript&logoColor=00B453)](https://www.pinecoders.com) [![C](https://img.shields.io/badge/C-222222?style=flat&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language)) |
@@ -32,9 +32,8 @@
 
 ###### _Disclaimer: The badges displayed represent technologies or tools I have worked with in various capacities. They do not imply comprehensive expertise in all aspects of their functionality, but rather reflect my experience and familiarity with them._
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsandakelum&show_icons=true&locale=en&layout=compact" alt="iamsandakelum" /></p>
+![iamsandakelum](https://github-readme-stats.vercel.app/api/top-langs?username=iamsandakelum&show_icons=true&locale=en&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsandakelum&show_icons=true&locale=en" alt="iamsandakelum" /></p>
+![iamsandakelum](https://github-readme-stats.vercel.app/api?username=iamsandakelum&show_icons=true&locale=en)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsandakelum&" alt="iamsandakelum" /></p>
-
+![iamsandakelum](https://github-readme-streak-stats.herokuapp.com/?user=iamsandakelum&)
